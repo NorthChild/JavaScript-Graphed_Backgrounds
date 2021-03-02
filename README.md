@@ -8,6 +8,6 @@ simple, yet classic look for all your engineering needs!
 
 
 
---- to make these codes work i m using a Processing library
+--- to test these codes work i m using p5.js
 
 # needs to be updated to be fully supperted by javascript ES6
